@@ -1,0 +1,22 @@
+{
+  "name": "image-rename-sheet",
+  "version": "0.0.1",
+  "description": "Reanme image according to sheet data",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sthnaqvi/image-rename-sheet.git"
+  },
+  "author": "Sayed Tauseef Naqvi <tauseef.naqvi786@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sthnaqvi/image-rename-sheet/issues"
+  },
+  "homepage": "https://github.com/sthnaqvi/image-rename-sheet#readme",
+  "dependencies": {
+    "fs-extra": "^8.1.0"
+  }
+}
